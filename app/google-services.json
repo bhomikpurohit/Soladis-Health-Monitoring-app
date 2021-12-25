@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "589405775603",
+    "project_id": "soladis-project-newest-2",
+    "storage_bucket": "soladis-project-newest-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589405775603:android:4d8582521b35c1a8d0b986",
+        "android_client_info": {
+          "package_name": "com.example.anysensormonitoring"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "589405775603-p9bb35lmh9aejbu0avcrmo8jrmn6hfm2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-1UFxWElpLDc19pDnCbMB8Keafy-J-BQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "589405775603-p9bb35lmh9aejbu0avcrmo8jrmn6hfm2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
